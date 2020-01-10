@@ -17,6 +17,7 @@ Since Pytorch is easy for debugging and maintenance, this framework was chosen.
 ### Result:
 Model\`s behaviour of tracking animals can be seen below. 
 ![](dog.gif)
+
 However, the model could not track a hand thus failing to generalize. Our training videos consist of animals like horse, panda,
 etc.., as object of interest. It could be the reason behind model\`s behaviour on animal videos. Also, the CNN model was frozen during training.
 
@@ -27,3 +28,6 @@ etc.., as object of interest. It could be the reason behind model\`s behaviour o
 ### Authors:
 * **Goushika Janani** -[GoushikaJanani](https://github.com/GoushikaJanani)
 * **Bharath C Renjith** -[cr-bharath](https://github.com/cr-bharath)
+
+### Citation
+https://gitlab.com/danielgordon10/re3-tensorflow
